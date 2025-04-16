@@ -1,0 +1,51 @@
+# Proprietary License Agreement
+
+## Copyright (c) 2025 EV TRAPPER
+
+### 1. Definitions
+
+- "Software" refers to the source code, object code, documentation, and any other materials in this repository.
+- "Commercial Use" means any use of the Software that directly or indirectly generates revenue, monetary gain, or commercial advantage.
+- "Licensor" refers to [YOUR NAME OR ORGANIZATION], the owner of the Software.
+- "You" refers to any individual or entity that accesses, views, downloads, or otherwise uses the Software.
+
+### 2. License Grant
+
+The Licensor hereby grants You a limited, non-exclusive, non-transferable license to view and fork this repository for the sole purpose of evaluation and non-commercial use, subject to the restrictions in Section 3.
+
+### 3. Restrictions
+
+3.1. You may NOT:
+   - Use the Software for any Commercial Use without obtaining a separate commercial license from EV Trapper
+   - Distribute the Software or any derivative works based on the Software
+   - Modify, adapt, or create derivative works of the Software for Commercial Use
+   - Remove or alter any copyright, trademark, or other proprietary notices
+   - Reverse engineer, decompile, or disassemble the Software
+
+3.2. Commercial License Required:
+   - Any Commercial Use of the Software requires a separate written agreement with the Licensor
+   - For commercial licensing information, please contact EVTRAPPER@GMAIL.COM
+
+### 4. Ownership
+
+The Software, including all intellectual property rights therein, is and shall remain the property of the Licensor. This Agreement does not grant You any rights to trademarks, service marks, or trade names of the Licensor.
+
+### 5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### 6. Termination
+
+This license is effective until terminated. This license will terminate automatically without notice if You breach any of its provisions. Upon termination, You must cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+### 7. Governing Law
+
+This Agreement shall be governed by and interpreted in accordance with the laws of [YOUR JURISDICTION], without giving effect to any principles of conflicts of law.
+
+### 8. Contact Information
+
+For licensing inquiries, including obtaining a commercial license, please contact:
+
+EV TRAPPER
+EVTRAPPER@GMAIL.COM
+https://github.com/evtrapper
